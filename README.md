@@ -4,7 +4,7 @@ You need to install Melon Loader from https://melonwiki.xyz/
 ### Instructions
 • Install MelonLoader 
 
-• Move ***UnitySceneInjector.dll*** into *Mods* folder 
+• Move ***UnitySceneInjector.dll*** into the *Mods* folder 
 
 • Open the game 
 
